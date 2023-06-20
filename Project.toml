@@ -1,0 +1,19 @@
+name = "RMLinearEffects"
+uuid = "5f31985f-ad89-45fd-862c-e466cd0d82f2"
+authors = ["Oliver Lindemann"]
+version = "0.1.1"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
+HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
+StatsAPI = "82ae8749-77ed-4fe6-ae5f-f523153014b0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
