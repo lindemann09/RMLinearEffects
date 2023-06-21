@@ -12,7 +12,6 @@ import HypothesisTests: pvalue,
         HypothesisTest
 
 export RMLinearRegression,
-        rmlm,
         fit,
         regression_table,
         pvalue,
