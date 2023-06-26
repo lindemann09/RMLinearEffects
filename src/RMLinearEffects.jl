@@ -15,6 +15,8 @@ export RMLinearRegression,
         fit,
         regression_table,
         pvalue,
+        population_param_of_interest,
+        show_params,
         # permute
         @formula # reexport
 

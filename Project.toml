@@ -1,7 +1,7 @@
 name = "RMLinearEffects"
 uuid = "5f31985f-ad89-45fd-862c-e466cd0d82f2"
 authors = ["Oliver Lindemann"]
-version = "0.1.1"
+version = "0.1.2"
 
 [deps]
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
