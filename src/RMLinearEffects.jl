@@ -4,6 +4,7 @@ using DataFrames
 using HypothesisTests
 using GLM
 
+import CategoricalArrays: unique
 import StatsAPI: fit
 import HypothesisTests: pvalue,
         show_params,
