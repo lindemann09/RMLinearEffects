@@ -11,6 +11,7 @@ HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
 StatsAPI = "82ae8749-77ed-4fe6-ae5f-f523153014b0"
 
 [compat]
+CategoricalArrays = "0.10"
 DataFrames = "1"
 GLM = "1"
 HypothesisTests = "0.11"
